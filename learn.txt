@@ -1,0 +1,8 @@
+spring boot
+hibernate
+spring security
+spring cloud
+j6
+spring deployment
+aws services-ec2,s3,ses,sqs,websocket,apache kafka,rds, spring batch,logging use cloudfront
+erro code with middleware exceptions
