@@ -14,7 +14,7 @@
 	<packaging>jar</packaging>
 	<name>to-do-list</name>
 	<description>To-do-list application backend using spring boot</description>
-
+	#Java version
 	<properties>
 		<java.version>11</java.version>
 	</properties>
